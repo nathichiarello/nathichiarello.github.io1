@@ -1,0 +1,32 @@
+nathiichiarello.24
+       <main class="container">
+            <article>
+                 <section class="foto-social">
+                   <div class="foto">
+                      <img src="img/"F-16_Fighting_Falcon.jpg" alt= "F-16"
+                    </div>
+                    <ul class="social">
+                        <li>
+                           <ahref="https://www.lockheedmartin.com/en-us/products/f-16.html" target="blanck">
+        </a>
+      </li>
+    </ul>
+   </section>
+   <section class="texto">
+       <h1>AERONAVE</h1> 
+       <p>O General Dynamics F-16 Fighting Falcon é um caça a jato polivalente, monomotor, altamente manobrável, apto a operar em todas as condições meteorológicas e de luminosidade.
+       <p>Originalmente concebido e desenvolvido pela General Dynamics para a Força Aérea dos Estados Unidos, a partir de um
+       <p>conceito experimental (LWF), para um interceptor diurno de curto alcance, complementar ao poderoso e sofisticado F-15
+       <p>Eagle de superioridade aérea. Foi evoluindo gradualmente para a função de caça-bombardeiro de alto desempenho, com
+       <p>capacidade para actuar em todas as condições atmosféricas de dia e de noite.
+       <p>A 21 de Julho de 1980, em cerimónia realizada na base aérea de Hill no Utah foi finalmente e oficialmente baptizado
+       <p>"Fighting Falcon".No entanto entre os seus pilotos independentemente da nacionalidade, foi e continua sendo conhecido e apelidado Viper.
+     </section>
+    </article>
+   </main>
+  </body>
+ </html>
+       <head>
+       <style>
+           body{background color: #34eBe8}
+       </style>  
